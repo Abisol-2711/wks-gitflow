@@ -1,3 +1,5 @@
+import React from 'react';
+
 const Header = () => (
   <header className="h-20 w-full px-8 bg-gray-700 flex flex-row justify-around items-center">
     <div className="h-20 flex flex-1 flex-row items-center space-x-8">

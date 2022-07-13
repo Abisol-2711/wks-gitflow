@@ -1,3 +1,4 @@
+import React from 'react';
 import useSWR from 'swr';
 
 import { swGet } from '../../utils/fetcher';

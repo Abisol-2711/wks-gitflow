@@ -1,3 +1,4 @@
+import React from 'react';
 import { Switch, Route, useLocation } from 'react-router-dom';
 
 import { paths } from '../paths';
